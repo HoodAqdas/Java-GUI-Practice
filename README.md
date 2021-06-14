@@ -2,7 +2,7 @@
 Using JSwing to create a Java GUI for Calculator.
 
 ## How to execute
-Clone the project and open it im Java IDE and execute.
+Clone the project and open it in Java IDE and execute.
 
 ### GUI
 All the functionalities shown on the image are implemented.
